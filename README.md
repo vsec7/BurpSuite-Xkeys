@@ -4,7 +4,7 @@
 ## Description
 A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
 
-Type : passive scanner
+Type : Passive Scanner
 
 # Setup
 <img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/install.png">
@@ -50,5 +50,8 @@ Type : passive scanner
 ## Code Credits:
 ```
 # PortSwigger example-scanner-checks: https://github.com/PortSwigger/example-scanner-checks
-# Redhunlabs Asset_Discover: https://github.com/redhuntlabs/BurpSuite-Asset_Discover
+# Redhuntlabs Asset_Discover: https://github.com/redhuntlabs/BurpSuite-Asset_Discover
 ```
+
+- Sec7or Team
+- Surabaya Hacker Link
