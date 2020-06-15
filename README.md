@@ -1,5 +1,5 @@
 # Xkeys (BurpSuite Extension)
-<img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkey/master/Screenshot/result.png">
+<img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/result.png">
 
 # Description
 A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage. and lists them as information issues.
@@ -7,7 +7,7 @@ A Burp Suite Extension to extract interesting strings (key, secret, token, or et
 Type : passive scanner
 
 # Setup
-<img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkey/master/Screenshot/install.png">
+<img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/install.png">
 
 - Setup the python environment by providing the <a href="https://www.jython.org/downloads.html">Jython.jar</a> file in the 'Options' tab under 'Extender' in Burp Suite.
 - Download the <a href="https://github.com/vsec7/BurpSuite-Xkeys/archive/master.zip">BurpSuite-Xkeys.zip</a>.
@@ -20,7 +20,7 @@ Type : passive scanner
 
 # Result
 - The extension will show on issues box and on output extender
-<img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkey/master/Screenshot/log.png">
+<img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/log.png">
 
 # Requirements
 - [Jython 2.7.0](https://www.jython.org/downloads.html)
