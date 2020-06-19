@@ -44,13 +44,13 @@ Type : Passive Scanner
 ```
 
 ## Requirements
-- [Jython 2.7.0](https://www.jython.org/downloads.html)
+- [Jython 2.7.0](https://www.jython.org/download.html)
 - [Burp Suite Pro](https://portswigger.net/burp)
 
 ## Code Credits:
 ```
 # PortSwigger example-scanner-checks: https://github.com/PortSwigger/example-scanner-checks
-# Redhuntlabs Asset_Discover: https://github.com/redhuntlabs/BurpSuite-Asset_Discover
+# RedHuntLabs BurpSuite-Asset_Discover: https://github.com/redhuntlabs/BurpSuite-Asset_Discover
 ```
 
 - Sec7or Team
