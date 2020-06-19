@@ -9,7 +9,7 @@ Type : Passive Scanner
 # Setup
 <img src="https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/install.png">
 
-- Setup the python environment by providing the <a href="https://www.jython.org/downloads.html">Jython.jar</a> file in the 'Options' tab under 'Extender' in Burp Suite.
+- Setup the python environment by providing the <a href="https://www.jython.org/download.html">Jython.jar</a> file in the 'Options' tab under 'Extender' in Burp Suite.
 - Download the <a href="https://github.com/vsec7/BurpSuite-Xkeys/archive/master.zip">BurpSuite-Xkeys.zip</a>.
 - In the 'Extensions' tab under 'Extender', select 'Add'.
 - Change the extension type to 'Python'.
